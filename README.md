@@ -16,5 +16,5 @@ open http://localhost:6060 in your browser.
 
 ### stop
 ```
-$ ./stop
+$ ./stop.sh
 ```
